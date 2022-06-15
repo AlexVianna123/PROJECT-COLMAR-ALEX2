@@ -1,0 +1,28 @@
+#first-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    width: 60vw;
+}
+
+#first-image {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+@media only screen and (max-width: 576px) {
+
+    #first-image {
+        width: 100vw;
+    }
+
+}
+
+
+
+.article-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    width: 35vw;
+}
