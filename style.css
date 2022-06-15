@@ -33,6 +33,13 @@
     object-fit: cover;
     width: 35vw;
 }
+.card-image2 {
+    max-width: 70%;
+    height: auto;
+    object-fit: cover;
+    width: 100vw;
+}
+
 
 #card-xxx {
     margin: 35px 32px 32px 72px;
